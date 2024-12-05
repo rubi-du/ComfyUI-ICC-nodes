@@ -20,9 +20,9 @@ Install via ComfyUI-Manager by searching for "ComfyUI-ICC-nodes".
 
 
 ### Nodes
-- LoadImageICC
-- SaveImageICC
-- PreviewImageICC
+- Load Image ICC
+- Save Image ICC
+- Preview Image ICC
 
 
 ### Workflows 
