@@ -1,2 +1,34 @@
-# ComfyUI-ICC-nodes
+<h1 align="center">ComfyUI-ICC-nodes </h1>  
+
+  
+## Introduction  
 This repository support processing Comfyui image nodes with ICC profile, load and save images with ICC profile
+
+#### Method 1:  
+  
+1. Navigate to the node directory, `ComfyUI/custom_nodes/`  
+2. `git clone https://github.com/rubi-du/ComfyUI-ICC-nodes.git`  
+3. Restart ComfyUI  
+  
+#### Method 2:  
+Directly download the node source code package, unzip it into the `custom_nodes` directory, and then restart ComfyUI.  
+  
+#### Method 3:  
+Install via ComfyUI-Manager by searching for "ComfyUI-ICC-nodes". 
+
+
+## Usage  
+### Nodes
+- LoadImageICC
+- SaveImageICC
+- PreviewImageICC
+
+
+### Workflows 
+Example workflows are placed in `ComfyUI-ICC-nodes/workflow`.
+[Workflow Address](./workflow/image.json) 
+ 
+workflow:
+![plot](./assets/image.png) 
+
+test image: ![test image](./assets/test_icc.png) 
