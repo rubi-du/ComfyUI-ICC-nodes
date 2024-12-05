@@ -31,4 +31,5 @@ Example workflows are placed in `ComfyUI-ICC-nodes/workflow`.
 workflow:
 ![plot](./assets/image.png) 
 
-test image: ![test image](./assets/test_icc.png) 
+test image:
+<img src="./assets/test_icc.png" alt="描述" width="260">
