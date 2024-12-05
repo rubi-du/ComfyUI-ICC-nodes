@@ -4,6 +4,8 @@
 ## Introduction  
 This repository support processing Comfyui image nodes with ICC profile, load and save images with ICC profile
 
+## Usage  
+
 #### Method 1:  
   
 1. Navigate to the node directory, `ComfyUI/custom_nodes/`  
@@ -17,7 +19,6 @@ Directly download the node source code package, unzip it into the `custom_nodes`
 Install via ComfyUI-Manager by searching for "ComfyUI-ICC-nodes". 
 
 
-## Usage  
 ### Nodes
 - LoadImageICC
 - SaveImageICC
